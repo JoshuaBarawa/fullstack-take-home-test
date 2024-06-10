@@ -3,18 +3,6 @@
 
 # Ello Engineering Challenge
 
-👋 Hello,
-We are really excited about you potentially joining the team, so we designed this take home exercise to give you a taste of the challenges you may encounter in the role, and better understand what it would be like to work closely together.
-
-Thanks for taking the time, and we hope to talk with you soon!
-
-## About Ello
-
-Ello is a forward-thinking educational technology company dedicated to revolutionizing the way children learn to read. Our mission is to empower young readers with the tools they need to become proficient and passionate readers. We believe that fostering a love for reading is essential for a child's academic and personal growth.
-
-**Note:** Please don't fork this repository or create a pull request against it. Other applicants may take inspiration from it. You should create another repository for the challenge. Once the coding challenge is completed, email your solution back to our team at [fullstack2024@ello.com](mailto:fullstack2024@ello.com).
-
-
 ## Challenge
 As part of our goal to have Ello impact as many children as we can, we offer an Ello web viewer product. [https://books.ello.com](https://books.ello.com/)
 
@@ -32,14 +20,23 @@ The view should have the following features:-
 
 You can build this view without the concept of a "student" and just have a single reading list for the teacher.
 
-### Requirements
-- Use React as the frontend framework.
-- Showcase the use of React hooks.
-- Use [material-ui](https://mui.com/material-ui/) as the component library.
-- Write your code in the `src/frontend` directory.
-- Create components as you feel is best suited for your solution
-<img width="1013" alt="Screenshot 2024-05-15 at 19 10 51" src="https://github.com/ElloTechnology/fullstack-take-home-test/assets/3518127/bc3eb7f7-489f-4304-93f4-032bbbd38c58">
+# How to run my solution
+# Getting Started
 
+### Installation and Setup Instructions
+Clone down this repository. You will need `node` and `npm` installed globally on your machine.  
+
+Installation:
+
+`npm install`  
+
+To Start Server:
+
+`npm start`  
+
+To Visit App:
+
+`localhost:3000` 
 
 ### Data
 To get access to data that you will use for this challenge you can switch into the `src/backend` folder and run
