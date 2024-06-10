@@ -6,7 +6,7 @@
 
 ### Installation and Setup Instructions
 Clone down this repository. You will need `node` and `npm` installed globally on your machine.  
-
+Switch to src/frontend and run the following commands:
 Installation:
 
 `npm install`  
